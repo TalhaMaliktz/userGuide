@@ -85,5 +85,3 @@ It’s time to execute your project but before we do that we must refer to AppSi
   ![Picture11](https://user-images.githubusercontent.com/13951043/162186790-eb7935df-7ee7-4f5d-9935-381f4afb4051.png)
 ---
 That's it for now, feel free to check out our [documentation](https://docs.appsignal.com/).
-
-
